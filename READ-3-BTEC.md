@@ -30,32 +30,5 @@ know i create parent file and chiled file , in chiled file can't access any prop
 
 ![img](img/props1.PNG)
 
-////////////////////////////////////////////////////
 
-this the live URL 👇
-
-<https://city-excplorer.netlify.app>
-
-if you see this link with error in console.
-
-but i have error because i have block in heroku and when i have this error the TA'S leave campus and i try to solve it and try to find solve in google but i can't solve it and i will solve it with TA.
-
-heroku link 👇
-
-<https://dashboard.heroku.com/apps/city-explorer03>
-
-when open heroku just open APP
-
-and add beside link /weather or movie?city=Amman
-to git data.
-
-i can't show you because i have block
-
-repo link for backend (API) 👇
-
-<https://github.com/leenahmad/city-explorer-API>
-
-repo link for frontend 👇
-
-<https://github.com/leenahmad/city-explorer>
 

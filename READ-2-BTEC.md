@@ -78,3 +78,31 @@ I use search to search cities and key APP_LOCATIONIQ_KEY and searchQuery paramet
 <https://www.themoviedb.org/documentation/api>
 
 <https://www.weatherbit.io/api/weather-forecast-16-day>
+
+
+
+### *links* >>>>>>>>>>>>>
+
+this the live URL 👇
+
+<https://city-excplorer.netlify.app>
+
+
+heroku link 👇
+
+<https://city-explorer03.herokuapp.com>
+
+when open heroku just open APP
+
+and add beside link /weather or Movie?city=Amman
+to git data.
+
+
+
+repo link for backend (API) 👇
+
+<https://github.com/leenahmad/city-explorer-API>
+
+repo link for frontend 👇
+
+<https://github.com/leenahmad/city-explorer>
